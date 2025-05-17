@@ -1,6 +1,5 @@
 # What this is: Nested if statement.
-# Define score 
-# Define age 
+# Goal: conditional statement based on score and age.
 
 score = input("What was your test score? ")
 score = int(score)
