@@ -1,4 +1,3 @@
-
 # What this is: Nested if statement.
 # Goal: conditional statement based on score and age.
 
